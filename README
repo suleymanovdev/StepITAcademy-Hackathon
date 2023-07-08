@@ -1,27 +1,31 @@
-Innovation Solutions Challenge  
+Innovation Solutions Challenge
 
-Создание программы IUsta.
+Creating the IUsta program.
 
-Цель программы IUsta — объединить мастеров и заказчиков в нашей стране на одной платформе.
-Программа будет состоять из 3-х частей: Админ, Мастер, Заказчик. 
-Админ добавляет категорию. Мастер регистрируется на основе этих категорий и добавляет примеры в свою работу.
-Домашняя страница клиента должна быть, например, как у tap.az.
-Заказчик ищет мастера по своему желанию и отправляет запрос о работе с ним.
-После каждого соглашения должен быть сформирован электронный чек,
-отправленный обеим сторонам по почте, и Админ должен видеть каждый из них при просмотре статистики. 
+The goal of the IUsta program is to unite professionals and clients in our country on one platform.
+The program will consist of three parts: Admin, Master, and Client.
+The Admin adds categories. The Master registers based on these categories and adds samples of their work.
+The client's homepage should be similar to tap.az, for example.
+The Client searches for a Master according to their preference and sends a work request to them.
+After each agreement, an electronic receipt should be generated and sent to both parties via email, and the Admin should be able to view each of them when reviewing the statistics.
 
-Admin: 
-Login 
-Статистика 
-Управление категориями 
+Admin:
+Login
+Statistics
+Category Management
 
-Мастер: 
-Login/Register  
-Профиль: 
-Соглашение с Заказчиком 
+Master:
+Login/Register
+Profile:
+Agreement with the Client
 
-Клиент: 
-Login/Register  
-Профиль 
-Поисковая система мастера (Фильтрация) 
-Соглашение с Мастером 
+Client:
+Login/Register
+Profile
+Master Search System (Filtering)
+Agreement with the Master
+
+Team:
+Suleymanov Elvin Shahin.
+Aliyev Vugar Abilfat.
+Eyubov Davud Elshad.
